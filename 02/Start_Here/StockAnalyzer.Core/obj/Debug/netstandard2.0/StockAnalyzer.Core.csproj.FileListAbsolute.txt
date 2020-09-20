@@ -1,0 +1,9 @@
+c:\Work\Other_Projects\Asynchronous-Programming-in-.NET\02\Start_Here\StockAnalyzer.Core\bin\Debug\netstandard2.0\StockAnalyzer.Core.deps.json
+c:\Work\Other_Projects\Asynchronous-Programming-in-.NET\02\Start_Here\StockAnalyzer.Core\bin\Debug\netstandard2.0\StockAnalyzer.Core.dll
+c:\Work\Other_Projects\Asynchronous-Programming-in-.NET\02\Start_Here\StockAnalyzer.Core\bin\Debug\netstandard2.0\StockAnalyzer.Core.pdb
+c:\Work\Other_Projects\Asynchronous-Programming-in-.NET\02\Start_Here\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.csprojAssemblyReference.cache
+c:\Work\Other_Projects\Asynchronous-Programming-in-.NET\02\Start_Here\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.AssemblyInfoInputs.cache
+c:\Work\Other_Projects\Asynchronous-Programming-in-.NET\02\Start_Here\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.AssemblyInfo.cs
+c:\Work\Other_Projects\Asynchronous-Programming-in-.NET\02\Start_Here\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.csproj.CoreCompileInputs.cache
+c:\Work\Other_Projects\Asynchronous-Programming-in-.NET\02\Start_Here\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.dll
+c:\Work\Other_Projects\Asynchronous-Programming-in-.NET\02\Start_Here\StockAnalyzer.Core\obj\Debug\netstandard2.0\StockAnalyzer.Core.pdb
